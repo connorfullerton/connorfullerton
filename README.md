@@ -1,9 +1,8 @@
-### Hi there, I'm Connor 👋
-
+# Hi there, I'm Connor 👋
 An aspiring software engineer from the UK.
-
 - 🔭 I’m currently working on CS50 and The Odin Project!
 
+## Languages & Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40">
@@ -14,6 +13,7 @@ An aspiring software engineer from the UK.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40">
 </div>
 
+## Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton">
