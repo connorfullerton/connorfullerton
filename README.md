@@ -14,7 +14,11 @@ An aspiring software engineer from the UK.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=connorfullerton" alt="Connor Fullerton's GitHub Stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton">
+  <img alt="Connor Fullerton's GitHub Stats">
+</picture>
 
 <!--
 **connorfullerton/connorfullerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
