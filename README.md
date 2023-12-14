@@ -1,5 +1,5 @@
-# Hi there, I'm Connor 👋
-An aspiring software engineer from the UK.
+# hello, world. I'm Connor 👋
+An aspiring software engineer from the United Kingdom.
 - 🔭 I’m currently working on CS50 and The Odin Project!
 
 ## Languages & Tools
@@ -15,7 +15,7 @@ An aspiring software engineer from the UK.
 
 ## Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&show_icons=true&theme=github_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&show_icons=true&theme=github_dark&border_color=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&show_icons=true">
   <img alt="Connor Fullerton's GitHub Stats">
 </picture>
