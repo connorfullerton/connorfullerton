@@ -15,8 +15,8 @@ An aspiring software engineer from the UK.
 
 ## Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&show_icons=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=connorfullerton&show_icons=true">
   <img alt="Connor Fullerton's GitHub Stats">
 </picture>
 
